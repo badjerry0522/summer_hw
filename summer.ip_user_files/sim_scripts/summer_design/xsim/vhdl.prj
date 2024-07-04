@@ -1,0 +1,9 @@
+vhdl xil_defaultlib  \
+"../../../bd/summer_design/ip/summer_design_proc_sys_reset_0_0/sim/summer_design_proc_sys_reset_0_0.vhd" \
+"../../../bd/summer_design/ip/summer_design_proc_sys_reset_1_0/sim/summer_design_proc_sys_reset_1_0.vhd" \
+"../../../bd/summer_design/ip/summer_design_axi_dma_0_0/sim/summer_design_axi_dma_0_0.vhd" \
+"../../../bd/summer_design/ip/summer_design_axi_dma_0_1/sim/summer_design_axi_dma_0_1.vhd" \
+"../../../bd/summer_design/ip/summer_design_proc_sys_reset_2_0/sim/summer_design_proc_sys_reset_2_0.vhd" \
+
+# Do not sort compile order
+nosort
